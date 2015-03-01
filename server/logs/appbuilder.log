@@ -1,0 +1,46 @@
+[2015-02-28 19:25:04.225] [INFO] repo - watch repository change:  /Users/NicksMac/Downloads/arcgis-web-appbuilder-1.0/client/stemapp/themes/
+[2015-02-28 19:25:04.229] [DEBUG] repo - watch dir:  /Users/NicksMac/Downloads/arcgis-web-appbuilder-1.0/client/stemapp/themes/
+[2015-02-28 19:25:04.230] [INFO] repo - watch repository change:  /Users/NicksMac/Downloads/arcgis-web-appbuilder-1.0/client/stemapp/widgets/
+[2015-02-28 19:25:04.230] [DEBUG] repo - watch dir:  /Users/NicksMac/Downloads/arcgis-web-appbuilder-1.0/client/stemapp/widgets/
+[2015-02-28 19:25:04.797] [INFO] repo - insert FoldableTheme
+[2015-02-28 19:25:04.800] [INFO] repo - insert TabTheme
+[2015-02-28 19:25:04.801] [INFO] repo - insert About
+[2015-02-28 19:25:04.802] [INFO] repo - insert AttributeTable
+[2015-02-28 19:25:04.803] [INFO] repo - insert BasemapGallery
+[2015-02-28 19:25:04.804] [INFO] repo - insert Bookmark
+[2015-02-28 19:25:04.806] [INFO] repo - insert Chart
+[2015-02-28 19:25:04.808] [INFO] repo - insert Coordinate
+[2015-02-28 19:25:04.809] [INFO] repo - insert Directions
+[2015-02-28 19:25:04.810] [INFO] repo - insert Draw
+[2015-02-28 19:25:04.812] [INFO] repo - insert Edit
+[2015-02-28 19:25:04.813] [INFO] repo - insert Geocoder
+[2015-02-28 19:25:04.815] [INFO] repo - insert Geoprocessing
+[2015-02-28 19:25:04.816] [INFO] repo - insert HomeButton
+[2015-02-28 19:25:04.819] [INFO] repo - insert LayerList
+[2015-02-28 19:25:04.820] [INFO] repo - insert Legend
+[2015-02-28 19:25:04.821] [INFO] repo - insert Measurement
+[2015-02-28 19:25:04.822] [INFO] repo - insert MyLocation
+[2015-02-28 19:25:04.824] [INFO] repo - insert OverviewMap
+[2015-02-28 19:25:04.825] [INFO] repo - insert Print
+[2015-02-28 19:25:04.826] [INFO] repo - insert Query
+[2015-02-28 19:25:04.828] [INFO] repo - insert Scalebar
+[2015-02-28 19:25:04.828] [INFO] repo - insert Splash
+[2015-02-28 19:25:25.903] [INFO] server - No portal URL is set, redirect /webappbuilder/ to /webappbuilder/?action=setportalurl
+[2015-02-28 19:27:30.848] [INFO] app - copy widget Geocoder to app 2
+[2015-02-28 19:27:31.269] [INFO] app - copy widget OverviewMap to app 2
+[2015-02-28 19:27:31.789] [INFO] app - copy widget Coordinate to app 2
+[2015-02-28 19:27:32.048] [INFO] app - copy widget Scalebar to app 2
+[2015-02-28 19:27:32.303] [INFO] app - copy widget HomeButton to app 2
+[2015-02-28 19:27:32.558] [INFO] app - copy widget AttributeTable to app 2
+[2015-02-28 19:27:32.674] [INFO] app - copy widget Legend to app 2
+[2015-02-28 19:27:32.803] [INFO] app - copy widget LayerList to app 2
+[2015-02-28 19:27:32.883] [INFO] app - copy widget MyLocation to app 2
+[2015-02-28 19:27:33.168] [INFO] app - copy widget Splash to app 2
+[2015-02-28 19:28:09.207] [INFO] server - redirect  /webappbuilder/stemapp/index.html?id=2 to /webappbuilder/apps/2
+[2015-02-28 19:41:36.391] [INFO] repo - watch repository change:  /Users/NicksMac/Downloads/arcgis-web-appbuilder-1.0/client/stemapp/themes/
+[2015-02-28 19:41:36.556] [DEBUG] repo - watch dir:  /Users/NicksMac/Downloads/arcgis-web-appbuilder-1.0/client/stemapp/themes/
+[2015-02-28 19:41:36.559] [INFO] repo - watch repository change:  /Users/NicksMac/Downloads/arcgis-web-appbuilder-1.0/client/stemapp/widgets/
+[2015-02-28 19:41:36.559] [DEBUG] repo - watch dir:  /Users/NicksMac/Downloads/arcgis-web-appbuilder-1.0/client/stemapp/widgets/
+[2015-02-28 19:41:47.677] [DEBUG] app - getApp successfully.
+[2015-02-28 19:42:18.911] [INFO] app - copy theme TabTheme to app 2
+[2015-02-28 19:43:23.391] [INFO] app - remove theme FoldableTheme from app 2
